@@ -1,0 +1,1 @@
+Simple Android NDK Project based on gradle / cmake build
